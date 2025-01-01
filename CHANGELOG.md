@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/petercool/ib-cp-gateway-docker/compare/v1.1.1...v1.2.0) (2025-01-01)
+
+
+### Features
+
+* Update the prettified and revised version of openapi document ([8729b86](https://github.com/petercool/ib-cp-gateway-docker/commit/8729b867744ada8a3b621bacb90e7efa27f11f4b))
+
 ## [1.1.1](https://github.com/petercool/ib-cp-gateway-docker/compare/v1.1.0...v1.1.1) (2025-01-01)
 
 
