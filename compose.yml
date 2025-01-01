@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  ib-gateway:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./ib_cp_gateway/root:/app/root
