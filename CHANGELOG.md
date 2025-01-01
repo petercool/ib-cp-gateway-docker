@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/petercool/ib-cp-gateway-docker/compare/v1.0.0...v1.1.0) (2025-01-01)
+
+
+### Features
+
+* enhance Docker CI workflow with QEMU setup and multi-platform support ([253e9ea](https://github.com/petercool/ib-cp-gateway-docker/commit/253e9eacb639be28a5304802705f41a71d0e9032))
+
 ## 1.0.0 (2025-01-01)
 
 
