@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/petercool/ib-cp-gateway-docker/compare/v1.1.0...v1.1.1) (2025-01-01)
+
+
+### Bug Fixes
+
+* update .gitignore to comment out jar files ([3002b6e](https://github.com/petercool/ib-cp-gateway-docker/commit/3002b6e3ab25c2644bc608d361c0088442d05e5b))
+
 ## [1.1.0](https://github.com/petercool/ib-cp-gateway-docker/compare/v1.0.0...v1.1.0) (2025-01-01)
 
 
